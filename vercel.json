@@ -3,8 +3,8 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/:path*/",
-      "destination": "/:path*",
+      "source": "/test-redirect",
+      "destination": "/",
       "permanent": true
     }
   ]
