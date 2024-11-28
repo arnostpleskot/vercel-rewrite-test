@@ -1,10 +1,6 @@
 {
   "version": 2,
   "redirects": [
-    {
-      "source": "/test-redirect",
-      "destination": "/",
-      "permanent": true
-    }
+    { "source": "/me", "destination": "/profile.html", "permanent": false }
   ]
 }
