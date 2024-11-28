@@ -1,6 +1,4 @@
 {
   "version": 2,
-  "redirects": [
-    { "source": "/me", "destination": "/profile.html", "permanent": false }
-  ]
+  "trailingSlash": false
 }
