@@ -1,10 +1,12 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "version": 2,
-  "routes": [
+  "cleanUrls": true,
+  "redirects": [
     {
-      "src": "/test-redirect",
-      "dest": "/"
+      "source": "/test-redirect",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
