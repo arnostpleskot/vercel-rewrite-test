@@ -7,12 +7,12 @@
       "status": 308
     },
     {
-      "handle": "miss"
+      "handle": "filesystem"
     },
     {
       "check": true,
       "src": "/(.*)",
-      "dest": "/404.html",
+      "dest": "/404",
       "status": 404
     }
   ]
