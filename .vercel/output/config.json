@@ -5,6 +5,7 @@
       "handle": "miss"
     },
     {
+      "check": true,
       "src": "/(.*)/",
       "dest": "/$1",
       "status": 308
