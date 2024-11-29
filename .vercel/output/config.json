@@ -2,7 +2,7 @@
   "version": 3,
   "routes": [
     {
-      "handle": "miss",
+      "handle": "error",
       "dest": "/404.html",
       "status": 404
     }
